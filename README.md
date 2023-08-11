@@ -19,3 +19,6 @@ start
 npx expo start --offline
 
 ```
+
+api:https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
+expo:https://docs.expo.dev/router/reference/authentication/
